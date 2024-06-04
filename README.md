@@ -1,6 +1,6 @@
 # Assignment Submission - Dashboard Project
 
-![Dashboard Banner](images/Screenshot 2024-06-04 120552.png)
+![Dashboard Banner](images/1.png)
 
 ## Overview
 This project involves creating a dynamic and visually appealing dashboard using React and the Recharts library. The dashboard visualizes data retrieved from a JSON file and presents it through various types of charts, such as bar charts, pie charts, and area charts.
@@ -54,7 +54,11 @@ Follow these steps to set up and run the project:
 
 ## Screenshorts
 
-![Dashboard Screenshot](images/Screenshot 2024-06-04 120553.png)
+![Dashboard Screenshot](images/2.png)
 
-![Dashboard Screenshot](images/Screenshot 2024-06-04 120554.png)
+![Dashboard Screenshot](images/3.png)
+
+![Dashboard Screenshot](images/4.png)
+
+![Dashboard Screenshot](images/5.png)
 
