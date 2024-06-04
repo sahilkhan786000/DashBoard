@@ -38,3 +38,19 @@ Follow these steps to set up and run the project:
    ```bash
    git clone https://github.com/yourusername/dashboard-project.git
    cd dashboard-project
+
+2. **Install Dependencies:**
+   ```bash
+   npm install
+
+   
+3. **Start the Development Server:**
+   ```bash
+   npm start
+   
+4. **View the Dashboard:**
+     Open your browser and navigate to https://dashboard-jx6s.onrender.com/ to view the dashboard. 
+
+
+## Screenshorts
+
